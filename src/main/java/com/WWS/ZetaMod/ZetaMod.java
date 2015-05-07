@@ -26,7 +26,6 @@ public class ZetaMod
     public void init(FMLInitializationEvent event)
     {
         System.out.println("WWS >> Zeta-094 Initializing...");
-        System.out.println("WWS >> Has Finished Loading!");
         System.out.println(ZetaMod.MODID);
 
         testBlock = new BlockTest();
