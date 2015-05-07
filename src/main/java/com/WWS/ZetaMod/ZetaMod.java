@@ -25,8 +25,8 @@ public class ZetaMod
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-        System.out.println("WWS - Zeta >> "+Blocks.dirt.getUnlocalizedName());
-        System.out.println("WWS - Zeta >> Has Finished Loading!");
+        System.out.println("WWS >> "+Blocks.dirt.getUnlocalizedName());
+        System.out.println("WWS >> Has Finished Loading!");
         System.out.println(ZetaMod.MODID);
 
         testBlock = new BlockTest();
