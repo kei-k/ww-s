@@ -1,0 +1,10 @@
+{
+  "parent": "ZetaMod:blocks/Test Block",
+  "display": {
+    "thirdperson": {
+      "rotation": [ 10, -45, 170 ],
+      "translation": [ 0, 1.5, -2.75 ],
+      "scale": [ 0.37, 0.37, 0.37 ]
+    }
+  }
+}
